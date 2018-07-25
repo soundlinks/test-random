@@ -27,10 +27,10 @@ Now your turn! But remember the above is just an example and copying it won't be
 
 ## FAQ
 
-**What's the deadline of this test?**
+> What's the deadline of this test?
 
 Usually we will set a deadline for our candidates in the email, but we believe the deadline can be flexible or even set on your own (tell us in advance), as long as you treat this test seriously and prove yourself.
 
-**Further questions?**
+> Further questions?
 
 If you have further questions, please create a [new issue](https://github.com/soundlinks/test-random/issues/new) or email to [dev@soundlinks.net](mailto:dev@soundlinks.net), we will get back to you as soon as we can.
